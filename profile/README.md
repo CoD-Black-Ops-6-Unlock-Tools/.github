@@ -29,10 +29,15 @@
 ## ✨ Key Features
 
 ✔️ Create multiple recoil presets for different weapons
+
 ✔️ DPI and sensitivity aligner
+
 ✔️ Works on Windows 10, 11 (64-bit)
+
 ✔️ Lightweight — no noticeable FPS loss
+
 ✔️ Weapon skin changer
+
 ---
 
 ## 🎯 Use Cases
